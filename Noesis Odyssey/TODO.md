@@ -1,1 +1,1 @@
-- [ ] 
+- [ ] write an intriguing chapter 1

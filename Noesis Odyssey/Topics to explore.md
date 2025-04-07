@@ -18,5 +18,9 @@
 - [ ] **Detection of Understanding:** Can individuals sense or measure another person's level of understanding of a concept? This could be important for assessing threats or allies.
 - [ ] **The "God of Freedom" Paradox:** If someone achieves god-like power through understanding freedom, does that understanding inherently include the freedom to impose their will on others, potentially contradicting the concept itself? What are the limitations of such absolute freedom within your world?
 - [ ] **The Hero Organization:** How does this organization identify and deal with individuals becoming corrupted? What are their methods and limitations? What ethical considerations do they face?
+- [ ] combining concept arts:  Essential for world dynamics and action. Defining clear synergies (Order + Structure = enhanced building/defense?) and conflicts (Freedom vs. Control, Loss vs. Creation) will make interactions meaningful. Some concepts might be neutral or have unexpected interactions.
+- [ ] **The Role of Emotion:** How does strong emotion interact with Mental Energy and Conceptual Understanding? Can passion fuel mental energy but potentially cloud understanding or warp the expression of power? Can apathy make it harder to channel Aether even with deep understanding?
+- [ ] **Societal Integration:** How has this power system shaped society? Are there formal schools for Noesis? Is it hidden or open? How are concepts assigned or chosen? Is there a social hierarchy based on conceptual depth?
+- [ ] **Conceptual Drift:** Can someone's core concept subtly change over their lifetime as their understanding evolves or their life experiences reshape their perspective? Could someone start with "Order" and slowly drift towards "Justice" or even "Control"?
 
 

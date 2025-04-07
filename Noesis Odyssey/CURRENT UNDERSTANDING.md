@@ -3,7 +3,7 @@ based on our discussion, here is a comprehensive realization of the power system
 **Core Concept: Noetic Powers**
 
 - **Source of Power:** Aether Energy - The fundamental energy of the soul, the essence of consciousness and understanding. It is a metaphysical or spiritual energy, distinct from conventional physical forces.
-- **Mechanism of Power Manifestation:** Aether energy is channeled and shaped by a character's understanding of specific concepts. The chosen concept acts as a lens through which their soul's aether energy is focused and expressed as a unique power.
+- **Mechanism of Power Manifestation:** Aether energy is channelled and shaped by a character's understanding of specific concepts. The chosen concept acts as a lens through which their soul's aether energy is focused and expressed as a unique power.
 - **The Noesis Odyssey:** The lifelong journey of deepening one's understanding of a chosen concept. This journey involves active cultivation of knowledge through study, meditation, philosophical debate, real-world experiences, and introspection. Each layer of understanding strengthens the connection to aether energy and amplifies the associated powers.
 
 **The Role of Mental Energy:**
